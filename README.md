@@ -13,7 +13,7 @@ It provides a dropdown to select semester.
 
 2. **Install this Script**  -
    - Click below to access the userscript file.
-   - [SRS Old Semester Grades v2-2025-01-20.user.js](https://github.com/semihada/Bilkent-SRS-Old-Semester-Grades/raw/master/SRS Old Semester Grades v2-2025-01-20.user.js)  
+   - [SRS Old Semester Grades v2-2025-01-20.user.js](https://github.com/semihada/Bilkent-SRS-Old-Semester-Grades/raw/main/SRS%20Old%20Semester%20Grades%20v2-2025-01-20.user.js)
    - Tampermonkey will detect the script and prompt you.  
      👉 Click **Install**.
 
